@@ -1,0 +1,11 @@
+.fondocolor{
+    background-color: rgb(175, 145, 204) !important;
+}
+.seccion{
+    width: 100%;
+    min-height: 500px;
+    padding: 2rem;
+}
+.fondoDos{
+    background-color: rgb(191, 202, 92);
+}
